@@ -1,0 +1,62 @@
+body{ background-color: rgba(226, 43, 43, 0.384);
+}
+
+h1.titulo{ font-family: Arial;
+
+}
+
+p.filmes{ font-family: Arial;
+
+}
+
+p.categorias{ font-family: Arial;
+
+}
+
+p.acao{ font-family: Arial;
+
+}
+
+p.filme1{ font-family: Arial;
+
+}
+
+p.filme2{ font-family: Arial;
+
+}
+
+p.comedia{ font-family: Arial;
+
+}
+
+p.filme3{ font-family: Arial;
+
+}
+
+p.filme4{ font-family: Arial;
+
+}
+
+p.disney{ font-family: Arial;
+
+}
+
+p.filme5{ font-family: Arial;
+
+}
+
+p.filme6{ font-family: Arial;
+
+}
+
+img{
+    border:3px solid rgb(255, 0, 179)
+}
+
+img:hover{ zoom: 150%; 
+
+} 
+
+p.link1, p.link2, p.link3, p.link4, p.link5, p.link6{
+    font-family: Arial ;
+}
